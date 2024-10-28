@@ -1,5 +1,7 @@
 # CONTAINS RAW SECRET KEY
 
+## config env set to 8 cores
+
 1. `curl -fsSL https://deno.land/x/install/install.sh | sh`
 
 2. `exit`
