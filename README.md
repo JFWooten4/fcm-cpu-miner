@@ -4,4 +4,6 @@
 
 2. `exit`
 
+open again via "ports" bottom left button
+
 3. `deno run --allow-all main.ts`
