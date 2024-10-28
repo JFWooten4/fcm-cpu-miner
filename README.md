@@ -2,10 +2,9 @@
 
 ## config env set to 8 cores
 
-1. `curl -fsSL https://deno.land/x/install/install.sh | sh`
+curl -fsSL https://deno.land/x/install/install.sh | sh
 
-2. `exit`
-
+exit/
 open again via "ports" bottom left button
 
-3. `deno run --allow-all main.ts`
+deno run --allow-all main.ts
