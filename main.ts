@@ -57,7 +57,7 @@ combineLatest([state$, reset$]).subscribe({
     );
     const tick: number = performance.now();
     await Promise.all(workers.map((worker) => {
-      const message = "" + worker.threadId;
+      const message = "";
 
       return new Promise((r) => {
         worker.postMessage({
