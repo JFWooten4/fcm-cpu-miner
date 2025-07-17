@@ -1,4 +1,4 @@
-# CONTAINS RAW SECRET KEY
+# Key Has Some KALE ponsorship, Laregely Immaterial
 
 ## config env set to 8 cores
 
